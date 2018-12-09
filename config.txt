@@ -1,6 +1,0 @@
-token=NTAzNTY3NDE3NDE5NDk3NDcy.Dt2mEA.CbpoYD_a-znmsEiBPHSccXr0Ink
-owner=319587743699042305
-prefix= 9
-game= 9play
-stayinchannel=true
-songinstatus=true 
